@@ -1,0 +1,12 @@
+.gradle/
+/captures/
+/local.properties
+GeneratedPluginRegistrant.java
+
+# Gradle files
+**/build/
+
+# Signing files
+key.properties
+*.keystore
+*.jks
